@@ -60,7 +60,17 @@ Practicing using **AWS CloudShell** is essential to mastering it. As a Linux she
 
 ## creating a Logical Architectural Diagram for my app in Lucid Charts:
 Creating a **logical architecture diagram** for my app in **Lucidchart** was an effective way to visualize and communicate the different components and interactions within my application, in my case I used **AWS Architecture 2021 shapes** to represent different elements of my application, and lines to show the flow of data and interactions between them: 
-![]()
+
+![Logical_Architecture_Diagram](/Docs/Assets/architecture_diagram.png)
+
+Here is the link to my Logical Architecture Diagram: [Logical_Architecture_Diagram](https://lucid.app/lucidchart/4c72a1e1-4824-43eb-93f5-4e93a0e53e8e/edit?viewport_loc=-1219%2C-11%2C2750%2C1276%2C0_0&invitationId=inv_fd78f6b7-dc8e-4a31-8c2f-c2494d3b37d2)
+
+Moving forward, I'm excited to explore more AWS services using my own architectural diagram to get even more comfortable with the platform.
+
+
+
+
+
 
  
  
