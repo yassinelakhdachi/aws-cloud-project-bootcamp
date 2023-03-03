@@ -1,6 +1,6 @@
 # aws-cloud-project-bootcamp
 the source code I developed during an AWS Cloud Project Bootcamp. It showcases my skills in building and deploying applications on the AWS Cloud platform using various programming languages and configurations.
-## Week.0
+## [Week.0](aws-cloud-project-bootcamp/Journal/week_0.md)
 + Creating my AWS Account && Set up an IAM user
 + creating a Billing alarm alert and set a budget to manage costs effectively
 + Installing AWS CLI, and get familiarized with AWS CloudShell
